@@ -29,14 +29,6 @@ cytoHubba (MCC method) was applied to identify top 10 hub genes.
 ### 5. Comparative Analysis
 Venn diagrams and cross-disease comparisons were performed using Python.
 
-## Results
-### Network Statistics
-
-Disease	     Nodes	Edges	 Density	 Clustering
-Alzheimer’s	  134	   884	  0.055	     0.477
-Parkinson’s	  126	   460	  0.062	     0.445
-Huntington’s  121	   494	  0.074	     0.446
-
 Comparative analysis revealed FBXO7, FUS, and GRN as conserved hub genes across all three diseases.
 
 ## Visualizations
