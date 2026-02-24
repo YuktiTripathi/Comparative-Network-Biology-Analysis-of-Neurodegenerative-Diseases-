@@ -17,6 +17,9 @@ Cytoscape
 cytoHubba
 Python (Pandas, Matplotlib)
 
+## Workflow
+![Workflow Diagram](figures/workflow.png)
+
 ## Methodology
 ### 1. Gene Collection
 Disease-associated genes were retrieved from GeneCards and ranked by relevance score. The top 150 genes for each disease were selected.
