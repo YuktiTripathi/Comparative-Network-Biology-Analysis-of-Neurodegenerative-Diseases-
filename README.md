@@ -18,7 +18,7 @@ cytoHubba
 Python (Pandas, Matplotlib)
 
 ## Workflow
-![Workflow Diagram](figures/workflow.png)
+
 
 ## Methodology
 ### 1. Gene Collection
