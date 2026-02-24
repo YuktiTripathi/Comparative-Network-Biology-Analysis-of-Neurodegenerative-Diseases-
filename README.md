@@ -1,4 +1,4 @@
-# Comparative-Network-Biology-Analysis-of-Neurodegenerative-Diseases-
+# Comparative Network Biology Analysis of Neurodegenerative-Diseases
 
 ## Overview
 This repository contains a comparative systems biology analysis of Alzheimer’s disease, Parkinson’s disease, and Huntington’s disease using protein–protein interaction (PPI) networks. The study aims to identify key hub genes and shared regulatory mechanisms using network topology-based approaches.
